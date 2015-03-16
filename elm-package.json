@@ -1,0 +1,15 @@
+{
+    "version": "0.0.1",
+    "summary": "Interactive 2D Plots in Elm",
+    "repository": "https://github.com/yjchoe/elm-plot.git",
+    "license": "BSD3",
+    "source-directories": [
+        "."
+    ],
+    "exposed-modules": [],
+    "native-modules": true,
+    "dependencies": {
+        "elm-lang/core": "1.0.0 <= v < 2.0.0",
+        "vilterp/elm-diagrams": "4.0.0 <= v < 5.0.0"
+    }
+}
